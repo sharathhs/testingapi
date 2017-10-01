@@ -2,9 +2,10 @@
 
             [
 
-                        {"title": "director", "name": "jane"},
-
-                        {"title": "ceo", "name": "sarah"}
+                        {"title": "director", "name": "jane", "start_date": "2017-09-01", "department": "executive"},
+                        {"title": "ceo", "name": "sarah", "start_date": "2017-09-01", "department": "executive"},
+                        {"title": "cIo", "name": "shara", "start_date": "2017-09-01", "department": "executive"},
+                        {"title": "ceo", "name": "Nam", "start_date": "2017-09-02", "department": "accounts"}
 
             ]
 
